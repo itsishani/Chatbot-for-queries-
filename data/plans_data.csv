@@ -1,0 +1,21 @@
+plan_id,plan_name,price_per_month,data_allowance_gb,calls_allowance_minutes,sms_allowance,group_plan,max_group_members,special_features,policy_details
+BASIC1,Basic Data Plan,25.0,5,100,50,No,1,None,Standard terms and conditions apply.
+BASIC2,Basic Talk & Text,20.0,2,200,100,No,1,None,No international roaming.
+BASIC_PLUS,Basic Plus,30.0,10,300,200,No,1,Data rollover,Data rollover available up to 3GB.
+STANDARD1,Standard Plan,40.0,20,500,300,No,1,Hotspot included,Hotspot usage up to 5GB/month.
+STANDARD2,Standard Extra,45.0,25,600,400,No,1,None,Standard terms and conditions apply.
+PREMIUM1,Premium Data,60.0,50,1000,500,No,1,Free streaming,Fair usage policy applies.
+PREMIUM_UNLIMITED,Unlimited Premium,75.5,Unlimited,Unlimited,Unlimited,No,1,"Free streaming, International calls discount",Fair usage policy applies (200GB high-speed then throttled).
+FAMILY_BASIC,Family Basic,70.0,20,500,300,Yes,4,None,Additional members can be added for $10/month each.
+FAMILY_PRO,Family Share Pro,120.0,100,Unlimited,Unlimited,Yes,4,"Hotspot included, Premium customer support",Additional members can be added for $10/month each.
+FAMILY_UNLIMITED,Family Unlimited,150.0,Unlimited,Unlimited,Unlimited,Yes,6,"Free streaming, Data rollover",Fair usage policy applies (500GB high-speed then throttled).
+YOUTH1,Youth Saver,15.0,3,100,50,No,1,Parental controls,No international roaming.
+SENIOR1,Senior Connect,18.0,2,150,100,No,1,Emergency call button,Standard terms and conditions apply.
+INTERNATIONAL1,International Lite,55.0,15,400,200,No,1,International calls discount,International calls at reduced rates.
+INTERNATIONAL_PRO,International Pro,80.0,30,800,400,No,1,Free international SMS,International SMS included.
+DATA_ONLY1,Data Only Basic,22.0,10,0,0,No,1,Tablet compatible,No voice or SMS included.
+DATA_ONLY_UNL,Data Only Unlimited,65.0,Unlimited,0,0,No,1,"Tablet compatible, Hotspot included",Fair usage policy applies (100GB high-speed then throttled).
+STUDENT1,Student Plan,28.0,8,200,100,No,1,Student discount,Valid student ID required.
+FAMILY_BASIC_PLUS,Family Basic Plus,90.0,40,800,500,Yes,4,Hotspot included,Additional members can be added for $8/month each.
+PREMIUM_PRO,Premium Pro,85.0,80,Unlimited,1000,No,1,"Free streaming, Hotspot included",Fair usage policy applies.
+ELITE_UNLIMITED,Elite Unlimited,200.0,Unlimited,Unlimited,Unlimited,Yes,6,"Free streaming, International roaming",International roaming included in 20 countries.

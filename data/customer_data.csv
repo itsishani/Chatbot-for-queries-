@@ -1,0 +1,101 @@
+customer_id,plan_taken,calls_made_last_month,data_used_gb_last_month,location,churn_risk
+CUST001,Standard Plan,298,6.1,Urban,Low
+CUST002,Premium Pro,73,22.3,Urban,Low
+CUST003,Basic Data Plan,64,10.4,Urban,Low
+CUST004,Standard Extra,73,22.9,Urban,Low
+CUST005,Standard Extra,37,14.6,Rural,Medium
+CUST006,Standard Extra,52,13.3,Rural,Medium
+CUST007,Basic Plus,91,2,Urban,Medium
+CUST008,Premium Pro,278,12,Rural,Medium
+CUST009,Standard Plan,174,6.6,Urban,Low
+CUST010,Standard Plan,64,6.2,Suburban,Low
+CUST011,Premium Pro,151,27,Urban,Low
+CUST012,Basic Plus,146,21.8,Urban,Low
+CUST013,Basic Data Plan,185,9.9,Suburban,High
+CUST014,Standard Extra,210,11,Urban,Medium
+CUST015,Basic Data Plan,203,17,Urban,Low
+CUST016,Standard Extra,190,11.7,Urban,Medium
+CUST017,Premium Pro,66,3.3,Suburban,Medium
+CUST018,Basic Plus,253,1.7,Urban,Medium
+CUST019,Standard Plan,42,4.2,Urban,Medium
+CUST020,Basic Data Plan,229,15.4,Rural,Low
+CUST021,Standard Extra,244,15.8,Suburban,Medium
+CUST022,Premium Pro,246,17.1,Urban,Low
+CUST023,Basic Data Plan,260,20.6,Urban,Low
+CUST024,Standard Plan,233,24.5,Urban,Medium
+CUST025,Premium Pro,30,14.6,Urban,Medium
+CUST026,Standard Extra,95,16.5,Suburban,Medium
+CUST027,Basic Plus,270,5.6,Rural,Low
+CUST028,Premium Pro,135,19.5,Suburban,Low
+CUST029,Standard Extra,294,1.6,Urban,Low
+CUST030,Premium Pro,68,23.3,Rural,Medium
+CUST031,Standard Extra,288,11.3,Urban,Medium
+CUST032,Standard Extra,288,9.9,Urban,Medium
+CUST033,Standard Plan,106,6.4,Suburban,Low
+CUST034,Premium Pro,148,25.9,Suburban,Medium
+CUST035,Basic Plus,152,6.8,Rural,Low
+CUST036,Standard Extra,53,23.1,Urban,Medium
+CUST037,Standard Plan,235,1.1,Urban,Low
+CUST038,Basic Data Plan,135,1.3,Urban,Low
+CUST039,Premium Pro,60,1.4,Suburban,Low
+CUST040,Standard Extra,116,15.2,Urban,Low
+CUST041,Standard Extra,280,22.3,Urban,Low
+CUST042,Standard Extra,23,4.4,Rural,Medium
+CUST043,Standard Plan,192,11.3,Urban,Medium
+CUST044,Basic Plus,222,13.3,Urban,Low
+CUST045,Premium Pro,53,16.2,Rural,Low
+CUST046,Premium Pro,271,21,Urban,Low
+CUST047,Standard Extra,180,19.3,Suburban,Low
+CUST048,Basic Plus,157,22.8,Suburban,High
+CUST049,Basic Plus,115,25.2,Rural,Medium
+CUST050,Basic Plus,110,10.3,Urban,Low
+CUST051,Premium Pro,120,8.1,Urban,Low
+CUST052,Standard Extra,119,16.6,Rural,Medium
+CUST053,Standard Extra,198,1.4,Suburban,Low
+CUST054,Basic Plus,62,2.1,Urban,Low
+CUST055,Premium Pro,189,12.7,Suburban,Low
+CUST056,Standard Extra,43,5.1,Urban,Medium
+CUST057,Basic Plus,112,9.5,Urban,Low
+CUST058,Basic Data Plan,217,11,Suburban,Medium
+CUST059,Premium Pro,68,23.7,Suburban,Medium
+CUST060,Premium Pro,231,2.1,Suburban,Low
+CUST061,Standard Plan,256,25.2,Urban,Low
+CUST062,Standard Extra,25,20,Urban,Medium
+CUST063,Premium Pro,152,8.5,Urban,Low
+CUST064,Standard Plan,32,27,Suburban,Low
+CUST065,Basic Data Plan,211,3.5,Rural,Low
+CUST066,Basic Plus,122,18.1,Urban,High
+CUST067,Standard Extra,43,25.1,Urban,High
+CUST068,Premium Pro,279,26.1,Suburban,Low
+CUST069,Premium Pro,277,5.5,Rural,Medium
+CUST070,Basic Data Plan,219,10.3,Urban,Low
+CUST071,Standard Plan,299,17.7,Urban,Medium
+CUST072,Basic Plus,75,5.9,Suburban,Low
+CUST073,Standard Extra,216,6.4,Urban,Medium
+CUST074,Basic Plus,89,19.6,Suburban,Medium
+CUST075,Basic Plus,54,17.8,Suburban,Low
+CUST076,Basic Plus,84,12.6,Urban,Low
+CUST077,Basic Data Plan,154,3.3,Urban,Low
+CUST078,Standard Extra,293,11.6,Suburban,Low
+CUST079,Basic Data Plan,128,24.7,Suburban,Low
+CUST080,Premium Pro,146,22.6,Suburban,Low
+CUST081,Basic Data Plan,245,12.1,Urban,Low
+CUST082,Basic Plus,25,11.1,Rural,Medium
+CUST083,Basic Plus,190,1.8,Suburban,Low
+CUST084,Basic Plus,157,2.3,Urban,Medium
+CUST085,Standard Extra,203,12.8,Urban,Medium
+CUST086,Basic Plus,282,10.4,Suburban,Medium
+CUST087,Standard Plan,161,23.9,Urban,Low
+CUST088,Basic Plus,61,2.5,Urban,Low
+CUST089,Basic Data Plan,273,26.4,Rural,Medium
+CUST090,Basic Data Plan,153,3.1,Urban,Medium
+CUST091,Basic Data Plan,185,9.2,Urban,Low
+CUST092,Basic Plus,158,13.4,Urban,Low
+CUST093,Basic Data Plan,275,17.4,Urban,Low
+CUST094,Basic Plus,101,13,Urban,High
+CUST095,Premium Pro,207,13.3,Urban,Low
+CUST096,Basic Plus,112,19.3,Urban,High
+CUST097,Premium Pro,30,3.1,Rural,Medium
+CUST098,Standard Extra,134,26,Suburban,Low
+CUST099,Basic Plus,215,2.8,Suburban,Medium
+CUST100,Standard Extra,209,22.1,Rural,Low

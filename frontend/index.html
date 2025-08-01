@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Telecom Support Chatbot</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>TeleSupport AI</h1>
+            <p>Your intelligent telecommunication assistant</p>
+        </div>
+
+        <div class="customer-info" id="customerInfo">
+            <div class="customer-id-display">
+                <div class="customer-avatar" id="customerAvatar">TC</div>
+                <div class="customer-details">
+                    <h3 id="customerName">Customer</h3>
+                    <p>ID: <span id="displayCustomerId"></span></p>
+                    <p>Status: <span style="color: #4ade80;">Connected</span></p>
+                </div>
+            </div>
+        </div>
+
+        <div class="login-form" id="loginForm">
+            <h2>Welcome Back</h2>
+            <p style="margin-bottom: 30px; opacity: 0.8;">Please enter your customer ID to continue</p>
+            <div class="input-group">
+                <input type="text" id="customerIdInput" placeholder="Enter your Customer ID" required>
+            </div>
+            <button class="btn-primary" onclick="startChat()">Start Chat</button>
+        </div>
+
+        <div class="chat-container" id="chatContainer">
+            <div class="chat-messages" id="chatMessages">
+                <div class="message bot">
+                    <div class="message-bubble">
+                        Hello! I'm your TeleSupport AI assistant. How can I help you with your telecommunication services today?
+                    </div>
+                </div>
+            </div>
+            <div class="typing-indicator" id="typingIndicator">
+                <span class="typing-dots">AI is typing</span>
+            </div>
+            <div class="chat-input-container">
+                <form class="chat-input-form" onsubmit="sendMessage(event)">
+                    <input type="text" class="chat-input" id="messageInput" placeholder="Type your message..." required>
+                    <button type="submit" class="send-btn">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <line x1="22" y1="2" x2="11" y2="13"></line>
+                            <polygon points="22,2 15,22 11,13 2,9"></polygon>
+                        </svg>
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+

@@ -1,0 +1,144 @@
+customer_id,interaction_id,interaction_type,timestamp,query_summary,resolution_summary,sentiment,proactive_suggestion_made
+CUST001,INT001,Technical Support,2023-02-23 14:10:43,Requested data top-up,Troubleshooting steps given,Neutral,Recommended recurring add-on
+CUST001,INT002,Call,2023-01-25 13:12:51,Requested SIM replacement,Plan changed successfully,Negative,Recommended recurring add-on
+CUST001,INT003,Email,2023-02-28 11:21:15,Requested SIM replacement,Call drop issue escalated,Neutral,Suggested higher data plan
+CUST001,INT004,Data Top-up,2023-02-06 13:31:26,Reported slow internet,Roaming charges explained,Positive,Offered discount
+CUST002,INT005,Email,2023-01-25 17:04:11,Inquired about new plan,SMS pack activated,Positive,None
+CUST002,INT006,Call,2023-02-10 14:26:30,Asked about SMS pack,New plan details shared,Positive,None
+CUST002,INT007,Data Top-up,2023-03-01 20:15:15,Requested plan change,Troubleshooting steps given,Positive,None
+CUST002,INT008,Email,2023-02-13 20:31:41,Inquired about international calls,International call rates shared,Neutral,Offered discount
+CUST002,INT009,Bill Inquiry,2023-03-06 19:11:56,Asked about data balance,Roaming charges explained,Positive,None
+CUST003,INT010,Data Top-up,2023-02-07 10:39:00,Reported call drop,SMS pack activated,Neutral,Suggested higher data plan
+CUST003,INT011,Chat,2023-02-13 15:20:40,Inquired about new plan,SMS pack activated,Positive,Recommended recurring add-on
+CUST003,INT012,Bill Inquiry,2023-03-08 15:44:30,Asked about SMS pack,Provided data balance,Positive,Recommended recurring add-on
+CUST003,INT013,Technical Support,2023-01-25 17:08:29,Inquired about international calls,Provided data balance,Neutral,Recommended recurring add-on
+CUST004,INT014,Call,2023-02-10 09:39:07,Requested SIM replacement,Plan changed successfully,Positive,Suggested higher data plan
+CUST004,INT015,Technical Support,2023-03-01 12:24:42,Requested data top-up,SMS pack activated,Positive,None
+CUST004,INT016,Technical Support,2023-03-25 13:00:08,Inquired about international calls,SIM replacement initiated,Neutral,None
+CUST005,INT017,Chat,2023-02-21 20:01:38,Requested plan change,No resolution,Neutral,Offered discount
+CUST005,INT018,Data Top-up,2023-02-03 19:43:00,Reported network outage,Data top-up processed,Positive,None
+CUST005,INT019,Chat,2023-01-29 10:49:52,Reported network outage,Call drop issue escalated,Positive,None
+CUST005,INT020,Bill Inquiry,2023-01-28 11:43:38,Asked about SMS pack,Roaming charges explained,Positive,Suggested higher data plan
+CUST005,INT021,Bill Inquiry,2023-03-07 15:39:02,Asked about bill,SIM replacement initiated,Neutral,Recommended recurring add-on
+CUST005,INT022,Chat,2023-03-25 17:47:34,Asked about SMS pack,Technician scheduled,Positive,Suggested higher data plan
+CUST006,INT023,Data Top-up,2023-02-02 08:54:38,Reported call drop,Troubleshooting steps given,Neutral,Suggested higher data plan
+CUST006,INT024,Bill Inquiry,2023-01-17 16:54:41,Asked about SMS pack,SIM replacement initiated,Positive,Offered discount
+CUST006,INT025,Email,2023-03-02 08:10:10,Requested SIM replacement,International call rates shared,Positive,None
+CUST006,INT026,Chat,2023-01-07 20:10:50,Asked about data balance,Data top-up processed,Neutral,Suggested higher data plan
+CUST006,INT027,Email,2023-01-24 19:31:27,Requested data top-up,Provided data balance,Negative,Offered discount
+CUST007,INT028,Data Top-up,2023-02-10 10:46:09,Requested SIM replacement,Data top-up processed,Neutral,Offered discount
+CUST007,INT029,Data Top-up,2023-03-30 09:03:35,Asked about roaming charges,SIM replacement initiated,Negative,Offered discount
+CUST007,INT030,Technical Support,2023-01-11 13:40:54,Requested data top-up,Provided data balance,Positive,None
+CUST007,INT031,Technical Support,2023-03-01 12:32:50,Reported slow internet,No resolution,Negative,Suggested higher data plan
+CUST007,INT032,Data Top-up,2023-03-10 16:30:50,Inquired about international calls,SMS pack activated,Neutral,Recommended recurring add-on
+CUST007,INT033,Chat,2023-03-17 11:12:10,Inquired about new plan,International call rates shared,Neutral,Offered discount
+CUST008,INT034,Data Top-up,2023-03-11 17:36:56,Asked about SMS pack,Call drop issue escalated,Positive,Suggested higher data plan
+CUST008,INT035,Bill Inquiry,2023-01-14 16:49:13,Asked about bill,Bill details provided,Neutral,Suggested higher data plan
+CUST008,INT036,Chat,2023-03-05 17:19:57,Reported call drop,No resolution,Negative,Recommended recurring add-on
+CUST009,INT037,Call,2023-03-21 11:21:24,Requested SIM replacement,Troubleshooting steps given,Neutral,Recommended recurring add-on
+CUST009,INT038,Data Top-up,2023-01-08 20:53:08,Asked about SMS pack,Technician scheduled,Negative,Suggested higher data plan
+CUST009,INT039,Technical Support,2023-03-06 11:47:23,Requested data top-up,International call rates shared,Neutral,Recommended recurring add-on
+CUST009,INT040,Data Top-up,2023-01-18 18:42:11,Requested data top-up,International call rates shared,Positive,Recommended recurring add-on
+CUST009,INT041,Email,2023-03-14 20:42:37,Reported network outage,No resolution,Neutral,None
+CUST010,INT042,Email,2023-02-06 18:29:14,Asked about roaming charges,Call drop issue escalated,Positive,Offered discount
+CUST010,INT043,Email,2023-03-06 12:36:24,Requested plan change,Plan changed successfully,Neutral,None
+CUST010,INT044,Bill Inquiry,2023-01-28 12:57:55,Asked about roaming charges,International call rates shared,Positive,Suggested higher data plan
+CUST010,INT045,Email,2023-01-18 20:36:09,Asked about data balance,International call rates shared,Neutral,Suggested higher data plan
+CUST010,INT046,Email,2023-01-31 20:50:03,Requested data top-up,Provided data balance,Neutral,Recommended recurring add-on
+CUST010,INT047,Call,2023-03-23 12:34:28,Inquired about new plan,SMS pack activated,Neutral,Offered discount
+CUST011,INT048,Bill Inquiry,2023-01-29 20:45:09,Asked about data balance,SIM replacement initiated,Neutral,Suggested higher data plan
+CUST011,INT049,Email,2023-03-26 09:33:15,Reported call drop,Data top-up processed,Positive,Suggested higher data plan
+CUST011,INT050,Technical Support,2023-03-07 11:24:18,Reported network outage,Provided data balance,Negative,Recommended recurring add-on
+CUST011,INT051,Technical Support,2023-01-06 09:01:55,Inquired about international calls,New plan details shared,Positive,Recommended recurring add-on
+CUST012,INT052,Technical Support,2023-01-13 18:45:49,Requested data top-up,Data top-up processed,Neutral,Suggested higher data plan
+CUST012,INT053,Call,2023-01-05 10:20:03,Inquired about new plan,SMS pack activated,Negative,Suggested higher data plan
+CUST012,INT054,Technical Support,2023-01-13 19:49:21,Asked about bill,International call rates shared,Neutral,None
+CUST012,INT055,Chat,2023-01-08 11:55:22,Reported network outage,SIM replacement initiated,Positive,Recommended recurring add-on
+CUST012,INT056,Chat,2023-02-13 09:40:40,Inquired about new plan,Plan changed successfully,Neutral,Recommended recurring add-on
+CUST012,INT057,Technical Support,2023-01-16 14:37:12,Inquired about international calls,Provided data balance,Positive,None
+CUST013,INT058,Bill Inquiry,2023-03-26 15:18:02,Asked about data balance,Roaming charges explained,Positive,Suggested higher data plan
+CUST013,INT059,Data Top-up,2023-03-11 14:59:15,Reported slow internet,Troubleshooting steps given,Positive,Recommended recurring add-on
+CUST013,INT060,Data Top-up,2023-01-31 17:15:41,Reported call drop,New plan details shared,Positive,None
+CUST013,INT061,Chat,2023-03-06 14:39:03,Reported slow internet,Provided data balance,Positive,Offered discount
+CUST013,INT062,Chat,2023-02-22 20:09:46,Asked about bill,International call rates shared,Positive,None
+CUST014,INT063,Chat,2023-02-12 11:11:13,Asked about data balance,Bill details provided,Neutral,Suggested higher data plan
+CUST014,INT064,Bill Inquiry,2023-03-22 18:07:46,Reported call drop,Bill details provided,Neutral,Suggested higher data plan
+CUST014,INT065,Email,2023-03-06 14:50:56,Requested SIM replacement,Plan changed successfully,Positive,None
+CUST015,INT066,Technical Support,2023-03-07 12:19:44,Requested data top-up,New plan details shared,Positive,Recommended recurring add-on
+CUST015,INT067,Data Top-up,2023-01-28 20:24:55,Asked about SMS pack,Call drop issue escalated,Positive,Suggested higher data plan
+CUST015,INT068,Call,2023-02-20 14:30:59,Requested SIM replacement,SIM replacement initiated,Positive,Suggested higher data plan
+CUST015,INT069,Bill Inquiry,2023-02-15 09:08:15,Reported slow internet,Technician scheduled,Negative,Offered discount
+CUST015,INT070,Chat,2023-02-01 19:12:45,Asked about roaming charges,Technician scheduled,Positive,Suggested higher data plan
+CUST015,INT071,Email,2023-02-01 08:48:50,Requested SIM replacement,No resolution,Positive,Offered discount
+CUST016,INT072,Call,2023-03-12 11:01:13,Reported slow internet,No resolution,Positive,Suggested higher data plan
+CUST016,INT073,Email,2023-03-31 16:44:11,Asked about roaming charges,New plan details shared,Positive,Recommended recurring add-on
+CUST016,INT074,Email,2023-01-11 16:48:09,Reported call drop,Technician scheduled,Neutral,Offered discount
+CUST017,INT075,Call,2023-02-28 12:21:42,Requested plan change,New plan details shared,Positive,Suggested higher data plan
+CUST017,INT076,Bill Inquiry,2023-01-14 17:47:56,Requested SIM replacement,International call rates shared,Neutral,Recommended recurring add-on
+CUST017,INT077,Technical Support,2023-01-28 19:14:41,Requested plan change,Plan changed successfully,Neutral,Suggested higher data plan
+CUST017,INT078,Chat,2023-02-26 11:21:34,Reported slow internet,International call rates shared,Positive,Recommended recurring add-on
+CUST018,INT079,Technical Support,2023-01-13 15:56:22,Asked about bill,No resolution,Positive,Offered discount
+CUST018,INT080,Call,2023-01-27 10:06:55,Requested SIM replacement,SIM replacement initiated,Neutral,Suggested higher data plan
+CUST018,INT081,Technical Support,2023-01-14 09:11:19,Asked about bill,Data top-up processed,Positive,None
+CUST019,INT082,Technical Support,2023-03-28 08:44:52,Asked about SMS pack,Call drop issue escalated,Positive,Suggested higher data plan
+CUST019,INT083,Call,2023-03-03 08:05:48,Reported call drop,No resolution,Positive,Offered discount
+CUST019,INT084,Technical Support,2023-01-31 08:46:29,Reported network outage,Provided data balance,Neutral,Suggested higher data plan
+CUST019,INT085,Bill Inquiry,2023-01-28 16:33:11,Reported call drop,SIM replacement initiated,Neutral,Offered discount
+CUST019,INT086,Technical Support,2023-03-04 18:04:05,Inquired about international calls,SIM replacement initiated,Negative,Suggested higher data plan
+CUST019,INT087,Bill Inquiry,2023-02-12 16:29:24,Inquired about new plan,New plan details shared,Positive,Offered discount
+CUST020,INT088,Call,2023-02-06 10:32:10,Inquired about international calls,No resolution,Positive,Offered discount
+CUST020,INT089,Chat,2023-01-27 12:34:32,Reported slow internet,SMS pack activated,Positive,Suggested higher data plan
+CUST020,INT090,Data Top-up,2023-03-11 18:35:00,Asked about roaming charges,Plan changed successfully,Neutral,None
+CUST020,INT091,Bill Inquiry,2023-03-10 17:34:45,Requested plan change,Plan changed successfully,Negative,None
+CUST020,INT092,Chat,2023-02-28 17:41:53,Asked about roaming charges,SIM replacement initiated,Negative,Offered discount
+CUST021,INT093,Email,2023-01-26 16:17:03,Reported slow internet,Troubleshooting steps given,Neutral,Offered discount
+CUST021,INT094,Technical Support,2023-02-05 08:49:38,Inquired about international calls,Troubleshooting steps given,Neutral,Offered discount
+CUST021,INT095,Chat,2023-01-11 15:14:41,Inquired about international calls,Call drop issue escalated,Positive,Suggested higher data plan
+CUST021,INT096,Technical Support,2023-01-29 17:41:09,Requested SIM replacement,Roaming charges explained,Positive,Offered discount
+CUST022,INT097,Call,2023-02-10 10:15:28,Asked about data balance,Bill details provided,Positive,None
+CUST022,INT098,Data Top-up,2023-01-11 10:39:59,Reported network outage,International call rates shared,Neutral,Suggested higher data plan
+CUST022,INT099,Chat,2023-01-02 16:47:39,Inquired about international calls,Bill details provided,Positive,Recommended recurring add-on
+CUST022,INT100,Data Top-up,2023-03-20 18:01:20,Asked about SMS pack,Data top-up processed,Neutral,Suggested higher data plan
+CUST022,INT101,Technical Support,2023-02-09 09:59:10,Asked about bill,Data top-up processed,Positive,Recommended recurring add-on
+CUST022,INT102,Email,2023-01-29 20:28:06,Requested SIM replacement,International call rates shared,Positive,Offered discount
+CUST023,INT103,Chat,2023-02-13 10:34:02,Reported network outage,New plan details shared,Positive,Suggested higher data plan
+CUST023,INT104,Call,2023-01-09 18:49:38,Asked about bill,SIM replacement initiated,Neutral,Recommended recurring add-on
+CUST023,INT105,Email,2023-02-11 08:22:38,Reported network outage,Bill details provided,Positive,Suggested higher data plan
+CUST023,INT106,Call,2023-01-28 10:58:23,Requested SIM replacement,No resolution,Positive,Offered discount
+CUST024,INT107,Bill Inquiry,2023-03-23 16:22:57,Requested plan change,No resolution,Neutral,Suggested higher data plan
+CUST024,INT108,Chat,2023-02-06 19:33:54,Asked about bill,Troubleshooting steps given,Neutral,None
+CUST024,INT109,Technical Support,2023-03-06 12:17:56,Inquired about new plan,Call drop issue escalated,Neutral,Offered discount
+CUST024,INT110,Data Top-up,2023-02-13 08:14:58,Asked about SMS pack,New plan details shared,Neutral,Offered discount
+CUST024,INT111,Data Top-up,2023-02-08 19:26:43,Reported call drop,Provided data balance,Negative,None
+CUST025,INT112,Chat,2023-02-20 12:02:29,Inquired about new plan,SMS pack activated,Positive,Recommended recurring add-on
+CUST025,INT113,Technical Support,2023-01-12 14:02:18,Asked about roaming charges,New plan details shared,Positive,Suggested higher data plan
+CUST025,INT114,Technical Support,2023-01-26 10:59:17,Reported call drop,Plan changed successfully,Positive,Suggested higher data plan
+CUST025,INT115,Email,2023-03-14 18:58:46,Reported slow internet,SMS pack activated,Neutral,Offered discount
+CUST025,INT116,Chat,2023-03-11 09:50:43,Reported network outage,Troubleshooting steps given,Negative,Suggested higher data plan
+CUST025,INT117,Email,2023-01-13 13:05:51,Reported network outage,Bill details provided,Positive,None
+CUST026,INT118,Call,2023-02-03 17:19:13,Asked about roaming charges,Call drop issue escalated,Positive,Recommended recurring add-on
+CUST026,INT119,Bill Inquiry,2023-01-13 10:27:22,Asked about bill,SMS pack activated,Positive,Recommended recurring add-on
+CUST026,INT120,Email,2023-03-18 20:51:53,Reported call drop,No resolution,Positive,Offered discount
+CUST026,INT121,Technical Support,2023-02-19 18:34:36,Requested data top-up,Provided data balance,Positive,Offered discount
+CUST026,INT122,Chat,2023-01-17 13:17:18,Reported network outage,SIM replacement initiated,Positive,None
+CUST026,INT123,Call,2023-02-09 09:07:07,Inquired about new plan,International call rates shared,Positive,Offered discount
+CUST027,INT124,Technical Support,2023-01-31 09:50:53,Asked about roaming charges,Bill details provided,Positive,Recommended recurring add-on
+CUST027,INT125,Bill Inquiry,2023-03-23 14:03:56,Requested plan change,No resolution,Positive,Suggested higher data plan
+CUST027,INT126,Call,2023-02-09 19:40:00,Asked about bill,New plan details shared,Negative,Recommended recurring add-on
+CUST027,INT127,Call,2023-03-14 15:22:15,Requested data top-up,Plan changed successfully,Positive,None
+CUST027,INT128,Email,2023-01-21 13:09:29,Reported call drop,New plan details shared,Neutral,Offered discount
+CUST028,INT129,Call,2023-02-01 17:54:00,Asked about roaming charges,Technician scheduled,Neutral,Offered discount
+CUST028,INT130,Call,2023-01-30 15:27:56,Asked about data balance,SIM replacement initiated,Positive,None
+CUST028,INT131,Data Top-up,2023-02-03 14:24:32,Inquired about new plan,Plan changed successfully,Positive,Suggested higher data plan
+CUST028,INT132,Call,2023-03-15 14:36:44,Asked about roaming charges,SIM replacement initiated,Positive,Suggested higher data plan
+CUST029,INT133,Bill Inquiry,2023-01-04 11:01:42,Requested SIM replacement,New plan details shared,Positive,Offered discount
+CUST029,INT134,Chat,2023-03-25 08:40:29,Reported slow internet,Call drop issue escalated,Positive,Suggested higher data plan
+CUST029,INT135,Call,2023-01-13 12:08:27,Reported network outage,Troubleshooting steps given,Negative,Suggested higher data plan
+CUST029,INT136,Bill Inquiry,2023-01-11 12:51:08,Requested SIM replacement,SIM replacement initiated,Positive,None
+CUST029,INT137,Email,2023-01-14 14:00:39,Requested data top-up,No resolution,Positive,Suggested higher data plan
+CUST030,INT138,Chat,2023-02-10 10:54:31,Asked about SMS pack,SMS pack activated,Positive,Recommended recurring add-on
+CUST030,INT139,Email,2023-03-02 20:14:57,Inquired about new plan,SMS pack activated,Positive,Suggested higher data plan
+CUST030,INT140,Bill Inquiry,2023-02-27 12:45:08,Requested data top-up,Bill details provided,Neutral,Suggested higher data plan
+CUST030,INT141,Bill Inquiry,2023-01-21 12:19:33,Reported call drop,Provided data balance,Positive,None
+CUST030,INT142,Chat,2023-03-05 08:02:14,Requested plan change,SIM replacement initiated,Positive,None
+CUST030,INT143,Data Top-up,2023-02-19 14:18:50,Requested SIM replacement,New plan details shared,Positive,Suggested higher data plan
